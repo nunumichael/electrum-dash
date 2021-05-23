@@ -1,0 +1,12 @@
+{
+    "electrum.dash.xyz": {
+        "pruning": "-",
+        "s": "50010",
+        "version": "1.4"
+    },
+    "electrum.dash.xyz": {
+        "pruning": "-",
+        "s": "50020",
+        "version": "1.4"
+    }
+}
